@@ -26,7 +26,7 @@
 }
 
 img {
-    width: 150px;
+    width: 100px;
 }
 
 .nav-links {
@@ -72,7 +72,7 @@ img {
 }
 
 .text-box {
-    padding-left: 125px;
+    padding-left: 80px;
     width: 100%;
     text-align: start;
 }
@@ -84,8 +84,8 @@ img {
 .homepic img {
     padding-top: 50px;
     padding-bottom: 0px;
-    padding-left: 112px;
-    width: 605px;
+    padding-left: 40px;
+    width: 437px;
     transition: transform .2s;
 }
 
@@ -95,12 +95,12 @@ img {
 
 
 .text-box h2 {
-    font-size: 45px;
+    font-size: 25px;
     color: #ff9a00;
 }
 
 .text-box h1 {
-    font-size: 70px;
+    font-size: 40px;
 }
 
 .text-box h5 {
@@ -117,7 +117,7 @@ img {
 
 .text-box p {
     margin: 10px 0 40px;
-    font-size: 25px;
+    font-size: 20px;
     color: #110202;
 }
 
@@ -184,7 +184,7 @@ nav .fa {
     margin: auto;
     justify-content: space-evenly;
     text-align: center;
-    padding: 20px;
+    padding: 54px 0 0;
     display: flex;
     gap: 5px;
 }
@@ -197,7 +197,7 @@ nav .fa {
 
 .phase1 p {
     padding: 2px;
-    font-size: 20px;
+    font-size: 15px;
     color: #0c0c0b82;
 }
 
@@ -274,12 +274,13 @@ nav .fa {
 
 .pottext h2 {
     color: #ff9a00;
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .pottext p {
     color: #232221;
     font-size: 20px;
+    padding: 10px 0 10px;
 }
 
 .workpage {
